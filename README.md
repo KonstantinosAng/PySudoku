@@ -32,7 +32,7 @@ python sudoku.py
 
 - To quit the game press **Esc**.
 
-- To delete an input number press **Del**.
+- To delete an input number press **Delete**.
 
 - To restart the game press **R**.
 
