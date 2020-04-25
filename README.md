@@ -28,7 +28,7 @@ python sudoku.py
 
 - Use the **mouse clicks** or  the **Up, Down, Left and Right Arrow Keys** to move the highlighted green box.
 
-- To check if the solution is corrected **ENTER**.
+- To check if the solution is correct **ENTER**.
 
 - To quit the game press **Esc**.
 
