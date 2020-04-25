@@ -26,7 +26,7 @@ python sudoku.py
 
 ## Instructions
 
-- Use the **mouse clicks ** or  the **Up, Down, Left and Right Arrow Keys** to move the highlighted green box.
+- Use the **mouse clicks** or  the **Up, Down, Left and Right Arrow Keys** to move the highlighted green box.
 
 - To check if the solution is corrected **ENTER**.
 
