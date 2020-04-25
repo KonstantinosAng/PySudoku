@@ -16,7 +16,7 @@ Use the following command to install it:
 pip install numpy
 ```
 
-After install the numpy simply download the files in a folder and run the sudoku.py file. The file is compatible with
+After installing the numpy simply download the files in a folder and run the sudoku.py file. The file is compatible with
 Python 2.7.x+ and Python 3.6.x+ and with Windows and Linux systems. To run the file use the next
 command:
 
@@ -26,9 +26,9 @@ python sudoku.py
 
 ## Instructions
 
-- Use the **mouse clicks** or  the **Up, Down, Left and Right Arrow Keys** to move the highlighted green box.
+- Use the **mouse click** or  the **Up, Down, Left and Right Arrow Keys** to move the highlighted green box.
 
-- To check if the solution is correct **ENTER**.
+- To check if the solution is correct press **ENTER**.
 
 - To quit the game press **Esc**.
 
